@@ -1,0 +1,15 @@
+# TUYET DOI KHONG DUA DU LIEU KH LEN GITHUB
+data/
+du_lieu_demo/
+*.db
+*.xlsx
+*.csv
+team_password.txt
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+demo_data/
+TIEN_DO.md
+*.log
+.DS_Store
